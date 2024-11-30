@@ -1,4 +1,4 @@
-# Encoder cmos decoder
+# Enkóder cmos dekódoló
 
 ## Kapcsolási rajz
 ![encoder_decoder](Encoderdecoder.jpg)
